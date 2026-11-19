@@ -1,0 +1,40 @@
+.rojo { color : red;}
+.azul { color : blue;}
+.verde { color : green;}
+.naranja { color : orange;}
+.morado { color : purple;}
+
+.azul {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.azul {
+  text-decoration: underline;
+}
+
+.rojo {
+  text-decoration: underline;
+}
+
+.verde {
+  text-decoration: underline;
+}
+
+.naranja {
+  text-decoration: underline;
+}
+
+.morado {
+  text-decoration: underline;
+}
+
+.imagen_tamaño {
+    width: 300px;
+    height: auto;
+}
+
+body {
+    background-color: rgb(117, 170, 219);
+}
